@@ -9,7 +9,6 @@
       <div>
         <Sidebar />
         <Article/>
-        
       </div>
       
     </div>
